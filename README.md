@@ -1,7 +1,10 @@
 ## Welcome to GitHub for kongshanhansong
 <p> web app </p>
 <p> App Name : jooi   </p>
-<p>Version v0.0.89 </p>
+<p>Version： v0.0.89 </p>
+<p>Language：Italian  Chinese    </p>
+
+
 ###   Android   
 download     <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yanghao095.yns">android down load</a>    
 
